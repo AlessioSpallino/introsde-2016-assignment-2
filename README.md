@@ -20,7 +20,7 @@ The configuration files are:
 ## Setup
 
 In order to clone the project and run it against the server deployed on Heroku:
-* ```https://github.com/AlessioSpallino/introsde-2016-assignment-2.git```
+* git clone ```https://github.com/AlessioSpallino/introsde-2016-assignment-2.git```
 
 #### Run client with Heroku
  
