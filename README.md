@@ -10,13 +10,6 @@ The project is divided into 6 packages:
 * ```introsde.rest.ehealth.model```: it contains ```HealthMeasureHistory.java```, ```LifeStatus.java```, ```MeasureDefinition.java``` and ```Person.java``` that represent the corresponding tables in the database. They also contain methods to query the database;
 * ```introsde.rest.ehealth.resources```: it contains ```MeasureTypeResource.java```, ```PersonCollectionResource.java```, ```HistoriesMidResource.java```, ```HistoriesResource.java``` and ```PersonResource.java```. These classes declare which CRUD operations are allowed and how to perform them;
 
-## Configuration files
-
-The configuration files are:
-
-* ```build.xml```: it contains all the targets to run the code;
-* ```ivy.xml```: it contains all the dependencies needed to run the project and it downloads them.
-
 ## Setup
 
 In order to clone the project and run it against the server deployed on Heroku:
